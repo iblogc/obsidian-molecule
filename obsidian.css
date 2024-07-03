@@ -52,6 +52,8 @@ Made by Manas Sadasivuni (https://links.manassadasivuni.com)
 body {
   -webkit-font-smoothing: auto;
   --font-monospace: 'Space Mono', 'Source Code Pro', monospace;
+  --font-default: '霞鹜文楷等宽', ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-monospace-default: '霞鹜文楷等宽',Menlo, SFMono-Regular, Consolas, "Roboto Mono", "Source Code Pro", monospace;
 }
 
 mjx-container[jax='CHTML'] {
